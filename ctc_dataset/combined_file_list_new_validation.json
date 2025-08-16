@@ -1,0 +1,162 @@
+[
+  {
+    "url_file": "ctc_dataset/new_validation/cab\u00e9.png",
+    "input_length": 7,
+    "label": [
+      11,18,35
+    ],
+    "label_length": 3
+  },
+  {
+    "url_file": "ctc_dataset/new_validation/tani.png",
+    "input_length": 7,
+    "label": [
+      14, 16, 33
+    ],
+    "label_length": 3
+  },
+  {
+    "url_file": "ctc_dataset/new_validation/buru.png",
+    "input_length": 7,
+    "label": [
+      18, 34, 21, 34
+    ],
+    "label_length": 4
+  },
+  {
+    "url_file": "ctc_dataset/new_validation/ngucap.png",
+    "input_length": 7,
+    "label": [
+      10, 34, 11, 17, 42
+    ],
+    "label_length": 5
+  },
+  {
+    "url_file": "ctc_dataset/new_validation/seuhah.png",
+    "input_length": 7,
+    "label": [
+      25, 37, 25, 40
+    ],
+    "label_length": 4
+  },
+  {
+    "url_file": "ctc_dataset/new_validation/lada.png",
+    "input_length": 7,
+    "label": [
+      23, 15
+    ],
+    "label_length": 2
+  },
+  {
+    "url_file": "ctc_dataset/new_validation/kaluar.png",
+    "input_length": 7,
+    "label": [
+      8, 22, 34, 1, 39
+    ],
+    "label_length": 5
+  },
+  {
+    "url_file": "ctc_dataset/new_validation/sabab.png",
+    "input_length": 7,
+    "label": [
+      24, 18, 18, 42
+    ],
+    "label_length": 4
+  },
+  {
+    "url_file": "ctc_dataset/new_validation/sakadang.png",
+    "input_length": 7,
+    "label": [
+      24, 8, 15, 41
+    ],
+    "label_length": 4
+  },
+  {
+    "url_file": "ctc_dataset/new_validation/man\u00e9hna.png",
+    "input_length": 7,
+    "label": [
+      19, 16, 35, 40, 16
+    ],
+    "label_length": 5
+  },
+  {
+    "url_file": "ctc_dataset/new_validation/damang.png",
+    "input_length": 7,
+    "label": [
+      15, 19, 41
+    ],
+    "label_length": 3
+  },
+  {
+    "url_file": "ctc_dataset/new_validation/tukeur.png",
+    "input_length": 7,
+    "label": [
+      14, 34, 8, 37, 43
+    ],
+    "label_length": 5
+  },
+  {
+    "url_file": "ctc_dataset/new_validation/sato.png",
+    "input_length": 7,
+    "label": [
+      24, 14, 38
+    ],
+    "label_length": 3
+  },
+  {
+    "url_file": "ctc_dataset/new_validation/kurung.png",
+    "input_length": 7,
+    "label": [
+      8, 34, 21, 34, 41
+    ],
+    "label_length": 5
+  },
+  {
+    "url_file": "ctc_dataset/new_validation/ngasah.png",
+    "input_length": 7,
+    "label": [
+      10, 24, 40
+    ],
+    "label_length": 3
+  },
+  {
+    "url_file": "ctc_dataset/new_validation/jero.png",
+    "input_length": 7,
+    "label": [
+      12, 26, 21, 38
+    ],
+    "label_length": 4
+  },
+  {
+    "url_file": "ctc_dataset/new_validation/angklung.png",
+    "input_length": 7,
+    "label": [
+      1, 41, 8, 45, 34, 41
+    ],
+    "label_length": 6
+  },
+  {
+    "url_file": "ctc_dataset/new_validation/katipu.png",
+    "input_length": 7,
+    "label": [
+      8, 14, 17, 34
+    ],
+    "label_length": 4
+  },
+  {
+    "url_file": "ctc_dataset/new_validation/sasih.png",
+    "input_length": 7,
+    "label": [
+      24, 24, 33, 25
+    ],
+    "label_length": 4
+  },
+  {
+    "url_file": "ctc_dataset/new_validation/po\u00e9.png",
+    "input_length": 7,
+    "label": [
+      17, 38, 6
+    ],
+    "label_length": 3
+  }
+]
